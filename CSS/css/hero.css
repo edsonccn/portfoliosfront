@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+}
+header{
+	background-color: #greenyellow;
+	text-align: left;
+}
+
+header img{
+	border-radius: 150px;
+}
+
+header h1{
+	color: white;
+}
+
